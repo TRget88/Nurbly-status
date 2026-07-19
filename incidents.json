@@ -1,10 +1,11 @@
 [{
   "id": "2026-07-19-deploy",
   "title": "Planned maintenance: platform update",
-  "status": "maintenance",
+  "status": "resolved",
   "started": "2026-07-19T02:00:00Z",
-  "resolved": null,
+  "resolved": "2026-07-19T02:30:00Z",
   "updates": [
-    { "time": "2026-07-19T02:00:00Z", "text": "Deploying an update; expect ~20 minutes of downtime." }
+    { "time": "2026-07-19T02:00:00Z", "text": "Deploying an update; expect ~20 minutes of downtime." },
+    { "time": "2026-07-19T02:30:00Z", "text": "Deploy complete; all systems operational. Actual downtime was about 24 seconds." }
   ]
 }]
