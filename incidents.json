@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "template": true,
+    "id": "YYYY-MM-DD-short-slug",
+    "title": "Example entry — copy this block, delete the template line, and edit (it never renders while template is true)",
+    "status": "investigating",
+    "started": "2026-01-01T00:00:00Z",
+    "resolved": null,
+    "updates": [
+      { "time": "2026-01-01T00:00:00Z", "text": "First update: what is happening and what users should expect. Valid status values: investigating | identified | monitoring | maintenance | resolved." },
+      { "time": "2026-01-01T01:00:00Z", "text": "Final update: when fixed, set status to resolved and fill in the resolved timestamp." }
+    ]
+  }
+]
